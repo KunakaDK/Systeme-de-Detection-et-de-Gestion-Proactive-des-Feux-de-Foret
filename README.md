@@ -138,13 +138,6 @@ IoT-Fire-Detection/
 ```
 
 -----
-
-## 🔮 Future Improvements
-
-  * [ ] Add a Web Dashboard (React/PHP) to visualize the MySQL data.
-  * [ ] Integrate SMS/Email alerts using Twilio or SMTP.
-  * [ ] Implement Deep Sleep on ESP32 for battery optimization.
-
 ## 📄 License
 
 This project is open-source. Feel free to use and modify.
