@@ -1,9 +1,5 @@
-Here is a professional, clean, and ready-to-copy **Markdown (`README.md`)** file for your GitHub repository.
-
-It is structured according to industry standards: **Overview → Architecture → Setup → Usage**.
-
------
-
+ML and DataPipeline
+###############################################################################################################################################################
 # 🌲 IoT Intelligent Fire Detection System
 
 An advanced IoT solution for early fire detection in forest or building environments. This system utilizes **Edge Computing** for data acquisition and a **Local Python Gateway** with **Machine Learning (Random Forest)** to filter noise, calibrate sensors, and predict fire risks with high accuracy before logging data to a MySQL database.
